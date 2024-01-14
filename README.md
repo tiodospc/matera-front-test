@@ -1,31 +1,33 @@
 # Teste para Front Matera
 
-Projeto criado com React + Typescript 
+Este projeto foi criado com React + Typescript.
 
-Devido ao tempo de projeto nao consegui implementar todas as features pedidas foquei em items mais complexos de:
+Devido ao tempo disponível, não consegui implementar todas as funcionalidades solicitadas. Concentrei em itens mais complexos, incluindo:
 
-1 -  Arquitetura de arquivos
-2 - Componentizacao
-3 - Tipagem e reutizacao de componentes genericos
-4 - Uso de context-api
-5 - Uso de SCSS junto ao Tailwind
-6 - Uso prettier 
+- Como o CRUD de produtos e algo mais simples exigido pra stack priorizei
+
+1. **Arquitetura de Arquivos**
+2. **Componentização**
+3. **Tipagem e Reutilização de Componentes Genéricos**
+4. **Uso da Context API**
+5. **Utilização de SCSS em conjunto com Tailwind**
+6. **Utilização do Prettier**
 
 
-This project was bootstrapped with Create React App
+Este projeto foi inicializado com o Create React App.
 
-## Available Scripts
+## Scripts Disponíveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar os seguintes comandos:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Inicia a aplicação no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-la no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A página será recarregada se você fizer edições.\
+Você também verá quaisquer erros de lint no console.
 
 ### `npm run prettier:format`
 
-
+Este comando é utilizado para formatar o código utilizando o Prettier.
