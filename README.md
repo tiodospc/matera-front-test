@@ -4,6 +4,8 @@ Este projeto foi criado com React + Typescript.
 
 Devido ao tempo disponível, não consegui implementar todas as funcionalidades solicitadas. Concentrei em itens mais complexos, incluindo:
 
+LINK HEROKU: https://matera-teste-app-479f9a116d76.herokuapp.com/
+
 - Como o CRUD de produtos e algo mais simples exigido pra stack priorizei
 
 1. **Arquitetura de Arquivos**
